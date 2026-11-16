@@ -17,6 +17,9 @@
 #ifndef _RECOVERY_VOLCLIENT_H
 #define _RECOVERY_VOLCLIENT_H
 
+#include <string>
+#include <vector>
+
 #include <volume_manager/VolumeManager.h>
 #include "recovery_ui/device.h"
 
